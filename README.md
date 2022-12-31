@@ -7,4 +7,4 @@ This repository contains packaged Helm charts provided by psosnicki.
 `$ helm repo update`
 
 ## Install Packages (stable)  
-`$ helm install my-release psosnicki-helm-repo-stable/k8s-pod-service-account [--version=1.0.0]`  
+`$ helm install my-release psosnicki-helm-repo-stable/k8s-pod-service-account --version=1.0.0`  
