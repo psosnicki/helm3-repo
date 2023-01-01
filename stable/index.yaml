@@ -10,7 +10,7 @@ entries:
         - service account
         - pod
       maintainers:
-        - name: psosnciki
+        - name: psosnicki
       name: k8s-pod-service-account
       type: application
       urls:
